@@ -1,2 +1,0 @@
-# PleaseRead
-See README
